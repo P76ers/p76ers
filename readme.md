@@ -117,3 +117,9 @@ timeline
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p76ers&layout=compact&theme=radical&hide_border=false)
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=p76ers.visitor-badge&left_color=lightgreen&right_color=orangered) 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/p76ers/p76ers/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/p76ers/p76ers/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/p76ers/p76ers/output/github-contribution-grid-snake.svg">
+</picture>
