@@ -64,17 +64,13 @@ timeline
     section future
       2026: about to come
 ```
-<div align="center">
-<hr style="width:50%">
-</div>
+
 
 ## contact me
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@prwz.maiwandi@gmail.com)
 
-<div align="center">
-<hr style="width:50%">
-</div>
+
 
 
 
@@ -121,9 +117,3 @@ timeline
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p76ers&layout=compact&theme=radical&hide_border=false)
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=p76ers.visitor-badge&left_color=lightgreen&right_color=orangered) 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/p76ers/p76ers/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/p76ers/p76ers/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/p76ers/p76ers/output/github-contribution-grid-snake.svg">
-</picture>
