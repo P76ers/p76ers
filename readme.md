@@ -2,12 +2,6 @@
 <img src="./github.png" alt="logo" width="100px" height="100px">
 </p>
 
-```c#
-Console.WriteLine("Hello World!");
-```
-
-## About me
-
 ```mermaid
 mindmap
   root((Welcome))
@@ -16,6 +10,8 @@ mindmap
         {{to my Github}}
         (World)
 ```
+
+## About me
 
 ```mermaid
 flowchart TD
