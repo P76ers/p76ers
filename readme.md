@@ -10,30 +10,11 @@ Console.WriteLine("Hello World!");
 
 ```mermaid
 mindmap
-  root((who am I))
-        [Hobbys]
-          Basketball
-          Handwerken
-          coding
-            documentation
-            new technologies
-        (personal)
-          (nickname: P)
-          (living in Hamburg)
-          (47 years old)
-          (male)
-        ))languages((
-          ))german((
-          ))english((
-          ))pashtu((
-          ))dari((
-        {{current work}}
-          {{trainee application developer @cbm Projektmanagement GmbH}}
-            {{looking for internship}}
-        )passion(
-          cookies
-          coffee
-          survival
+  root((Welcome))
+        (Hello)
+        {{Profile}}
+        {{to my Github}}
+        (World)
 ```
 
 ```mermaid
