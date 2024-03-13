@@ -13,14 +13,18 @@ mindmap
 
 ## About me
 
-```mermaid
-flowchart TD
-    Eat:::yellow --> Code
-    Code:::red --> Sleep
-    Sleep:::purple --> Eat
-    classDef yellow stroke:#FFD615
-    classDef red stroke:#F9220B
-    classDef purple stroke:#BA10BF
+```java
+public class About extends Me{
+    public String nickname = "P";
+    public String city = "Hamburg";
+    public String current_work = "Software Developer Apprentice";
+    private String[] hobbies = { "Basketball", "Handwerken", "Coding" };
+
+    private void Ambitions() {
+        FindInternship();
+        CreateSkyNet();
+    }
+}
 ```
 
 ```mermaid
@@ -32,7 +36,7 @@ timeline
       : cs50
       : w3schools
       : stackoverflow
-      : youtube
+      : docusaurus
     section Umschulung
       2023: cbm Projektmanagement GmbH
       2024 : cbm Projektmanagement GmbH
@@ -93,14 +97,6 @@ timeline
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="pycharm" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.svg" alt="rider" width="40" height="40"/> 
 </div>
-
-## support me
-
-<a href="https://www.buymeacoffee.com/p76ers" target="_blank" rel="noreferrer nofollow">
-<img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-</a>
-
-[![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/p76ers)
 
 ## my stats
 
