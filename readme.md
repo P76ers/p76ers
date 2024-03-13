@@ -46,6 +46,26 @@ timeline
       2026: about to come
 ```
 
+## projects
+- [my codingDocs](https://p76ers.github.io/)
+  > Documentation Website about my Coding-Experience
+  >
+  > based on [Docusaurus Framework]([https://](https://docusaurus.io/))
+  > 
+  > Exercises and Code Snippets for different languages, with Syntax-Highlighting
+  >
+  > IDE Settings, Shortcuts, Emmet-Abbreviation, etc
+  > 
+  > Diagram and charting Tools with [Mermaid]([https://](https://mermaid.js.org/))
+  > 
+- Software Development courses managed as repositories
+  - [c++](https://github.com/P76ers/cpp)
+  - [sql](https://github.com/P76ers/sql)
+  - [php](https://github.com/P76ers/php)
+  - [c#](https://github.com/P76ers/cSharp)
+  - [SpDesign](https://github.com/P76ers/SpDesign)  `Website about a men's outfitter`
+  - [python](https://github.com/P76ers/python)
+
 ## contact me
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@prwz.maiwandi@gmail.com)
