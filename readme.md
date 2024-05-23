@@ -52,7 +52,10 @@ timeline
 ```
 
 ## projects
-- [codingDocs](https://p76ers.github.io/)
+- [P76ers.github.io ](https://github.com/P76ers/P76ers.github.io) aka `codingDocs`
+  
+  Live operation on Github-Pages: [codingDocs](https://p76ers.github.io/)
+  > Documentation Website about my Coding-Experience
   > Documentation Website about my Coding-Experience
 - Umschulung [@cbm](https://cbm-projektmanagement.de/) (Bildungsträger)
   - Vorlesung repositories 
