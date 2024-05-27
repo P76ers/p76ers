@@ -56,7 +56,6 @@ timeline
   
   Live operation on Github-Pages: [codingDocs](https://p76ers.github.io/)
   > Documentation Website about my Coding-Experience
-  > Documentation Website about my Coding-Experience
 - Umschulung [@cbm](https://cbm-projektmanagement.de/) (Bildungsträger)
   - Vorlesung repositories 
     - [c++](https://github.com/P76ers/cpp)
