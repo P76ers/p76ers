@@ -39,13 +39,26 @@ timeline
     section privat
     2022: Java ist eine Insel
       : cs50
-      : w3schools
-      : stackoverflow
       : docusaurus
-    section Umschulung
+    section Umschulung 
       2023: cbm Projektmanagement GmbH
-      2024 : cbm Projektmanagement GmbH
-        : Praktikum
+          : Grundlagen PC-Technik
+          : Grundlagen DV-Systeme
+          : Grundlagen relative Datenbanken mit SQL
+          : Grundlagen prozedurale Programmierung C / C++
+          : Webtechnologien HTML, CSS, Javascript, PHP
+      2024: cbm Projektmanagement GmbH
+          : Projekt dynamische Webseiten
+          : Grundlagen OOP
+          : Cyberphysische Programmierung Python
+          : Grundlagen Netzwerktechnik
+          : OOP mit Csharp
+          : Projekt Csharp
+          : it-Scherheit
+          : OOP mit Java
+          : Projekt Java
+          : Projektmanagement klassisch / agil
+          : Praktikum
       2025: Praktikum
     section future
       2026: about to come
