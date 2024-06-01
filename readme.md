@@ -19,10 +19,10 @@ mindmap
 
 ```java
 public class About extends Me{
-    public String nickname = "P";
-    public String city = "Hamburg";
-    public String current_work = "Software Developer Apprentice";
-    private String[] hobbies = { "Basketball", "Handwerken", "Coding" };
+    public string nickname = "P";
+    public string city = "Hamburg";
+    public string current_work = "Software Developer Apprentice";
+    private string[] hobbies = { "Basketball", "Handwerken", "Coding" };
 
     private void Ambitions() {
         FindInternship();
