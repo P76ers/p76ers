@@ -38,7 +38,7 @@ timeline
     title my coding adventure
     section privat
     2022: Java ist eine Insel
-      : cs50
+      : git
       : docusaurus | react
       : markdown | mdx
       : html, css, Javascript
